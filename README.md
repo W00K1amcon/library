@@ -12,13 +12,11 @@ The purpose of this project is to serve as a repository of information for indiv
 
 --- 
 
-### Medical
 
-* [Special Operations Forces (SOF) Medical Handbook](sof_medical_handbook.pdf)
-
-### SERE
-
-* [SERE Handbook](afh10-644.pdf)
+| Category | Name | |
+| --- | --- | --- |
+| Medical | Special Operations Forces (SOF) Medical Handbook | [pdf](sof_medical_handbook.pdf) |
+| SERE | SERE Handbook | [pdf](afh10-644.pdf) |
 
 ## Contributing
 
