@@ -1,17 +1,10 @@
 # [@americancontingency](https://github.com/americancontingency)/[library](https://github.com/americancontingency/library)
 
----
-
 ## Getting Started
-
----
 
 The purpose of this project is to share information that individuals seeking information to protect and serve their families and communities may find valuable. The publications available here are free from copyright and available in the public domain.
 
 ## Bookshelf
-
---- 
-
 
 | Category | Name | |
 | --- | --- | --- |
@@ -19,8 +12,6 @@ The purpose of this project is to share information that individuals seeking inf
 | SERE | SERE Handbook | [pdf](afh10-644.pdf) |
 
 ## Contributing
-
----
 
 If you have a recommendation, please report an [issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) or submit a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
