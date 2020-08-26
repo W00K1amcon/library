@@ -6,7 +6,7 @@
 
 ---
 
-The purpose of this project is to serve as a repository of information for individuals seeking information to protect and serve their families and communities. The publications available here are publicy free from copyright and available in the public domain.
+The purpose of this project is to share information that individuals seeking information to protect and serve their families and communities may find valuable. The publications available here are free from copyright and available in the public domain.
 
 ## Bookshelf
 
